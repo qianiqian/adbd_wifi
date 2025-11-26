@@ -11,7 +11,7 @@ on:
       MANIFEST_BRANCH:
         description: "MANIFEST_BRANCH"
         required: true
-        default: "android-10.0.0_r1"
+        default: "android-13.0.0_r1"
       DEVICE_ARCH:
         description: "DEVICE_ARCH"
         required: true
